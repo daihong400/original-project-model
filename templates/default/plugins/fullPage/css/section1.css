@@ -1,0 +1,78 @@
+body{
+	font-family: "微软雅黑";
+}
+.content{
+	width: 750px;
+}
+.section1-nav{
+	background-color: red;
+	position: fixed;
+	top: 0;
+	width: 750px;
+	height: 88px;
+	background-color: rgba(0, 0, 0, 1);
+	z-index: 9;
+}
+.section1-logo{
+	width: 232px;
+	height: 44px;
+	margin-top: 22px;
+	margin-left: 33px;
+	display: inline-block;
+}
+.section1-titleImage{
+	width: 140px;
+	height: 44px;
+	margin-top: 22px;
+	margin-left: 30px;
+	display: inline-block;
+}
+.section1-animateEa{
+	width: 676px;
+	height: 676px;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+.section1-TextTitleEa{
+	width: 286px;
+	height: 90px;
+	margin: 0 auto;
+	margin-top: 12px;
+	position: relative;
+}
+.section1-TextTitleEa p{
+	font-size: 48px;
+	color: #86bc25;
+	text-align: center;
+	line-height: 90px;
+}
+.section1-TextTitleEa .section1-borderImg{
+	position: absolute;
+	top: 0;
+	left: -54px;
+}
+.section-animateEle{
+	position: absolute;
+	top: 34px;
+}
+.section-animateEle1{
+	left: 0;
+}
+.section-animateEle2{
+	right: 0;
+}
+.section1-textEa{
+	color: white;
+	margin: 0 auto;
+	text-align: center;
+	margin-top: 86px;
+}
+.section1-textEaP1{
+	font-size: 30px;
+	color: #ffffff;
+}
+.section1-textEaP2{
+	font-size: 30px;
+	color: #ffffff;
+	line-height: 85px;
+}

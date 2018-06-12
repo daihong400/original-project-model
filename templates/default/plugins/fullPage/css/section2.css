@@ -1,0 +1,95 @@
+.section2-header{
+	text-align: center;
+	width: 100%;
+	font-family: ﻿MicrosoftYaHei;
+	font-size: 48px;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	line-height: 80px;
+	letter-spacing: 0;
+	color: #fffffe;
+	padding-bottom: 50px;
+	margin-top: 70px;
+	position: relative;
+}
+.section2-main{
+	position: relative;
+	width: 686px;
+	margin-left: 114px;
+	min-height: 500px;
+}
+.section2-tittle{
+position: relative;
+}
+.left{
+	background: #000000;
+	width: 18px;
+	height: 18px;
+	border-radius: 50px;
+	border: solid 2px #86BC25;
+	position: absolute;
+	left: -12px;
+	top: 32px;
+}
+.left-start{
+	background: #000000;
+	width: 22px;
+	height: 58px;
+	position: absolute;
+	top: -2px;
+	left: -12px;
+}
+.left-end{
+	background: #000000;
+	width: 22px;
+	height: 60px;
+	position: absolute;
+	left: -12px;
+	top:30px;
+}
+.left-1{
+	position: relative;
+	top:36px;
+	left: 0;
+}
+.left-2{
+	position: relative;
+	top:0;
+	left: 0;
+}
+.right{
+	margin-left: 32px;
+}
+.right-1{
+	font-size: 30px;
+	line-height: 30px;
+	padding-top: 30px;
+	letter-spacing: 0;
+	color: #86bc25;
+	font-family: ﻿MicrosoftYaHei;
+}
+.right-2{
+	font-size: 24px;
+	line-height: 24px;
+	padding-top: 20px;
+	letter-spacing: 0;
+	color: #bbbcbc;
+	font-family: ﻿MicrosoftYaHei;
+}
+.section2-foot{
+	color: #bbbcbc;
+	font-size: 24px;
+	margin-top: 70px;
+	margin-left: 146px;
+}
+.section2-bg-left{
+	position: absolute;
+	left: 0;
+	bottom: 200px;
+}
+.section2-bg-right{
+	position: absolute;
+	right: 0;
+	bottom: 58px;
+}
